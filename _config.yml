@@ -1,17 +1,17 @@
 # Site settings
-title: SHE Blog
-SEOTitle: SHE的博客 
-header-img: img/she1.png
+title: Bonnie's Blog
+SEOTitle: Bonnie的博客 
+header-img: img/bonnie.jpg
 email: she2017@gmail.com
 description: "SHE 学习贼认真！"
-keyword: "Selina,Hebe,Ella"
-url: "http://SHEgoodgoodstudy.github.io"          # your host, for absolute URL
+keyword: "Bonnie never stops"
+url: "http://bonniedust.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "http://SHEgoodgoodstudy.github.io" # you code repository
+github_repo: "http://bonniedust.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                          # whether or not using Sidebar.
-sidebar-about-description: "SHE 学习很努力!"
+sidebar-about-description: "Bonnie 学习很努力!"
 sidebar-avatar: /img/ella.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
